@@ -110,5 +110,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 * Sinem Onay
 * Zülküf Orhun Özkaya
 
-<!-- ACKNOWLEDGEMENTS -->	
-## Acknowledgements	
+
