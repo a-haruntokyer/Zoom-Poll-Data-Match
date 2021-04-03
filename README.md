@@ -75,7 +75,7 @@ This section should list any major frameworks that you built your project using.
 1. Be sure about you have access to our git repo.
 2. Clone the repo
    ```sh
-   git clone https://github.com/samuhay/CSE3063F20P2_GRP5.git
+   git clone https://github.com/a-haruntokyer/Zoom-Poll-Data-Match.git
    ```
 3. Get into iteration1 directory
    ```sh
